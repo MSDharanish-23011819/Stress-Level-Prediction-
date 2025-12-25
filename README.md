@@ -243,4 +243,4 @@ Developed as a comprehensive stress prediction and mental health advisory system
 
 ---
 
-**Last Updated**: December 23, 2025
+
